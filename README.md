@@ -26,4 +26,10 @@
 
 ![vpc.png](screenshots/vpc.png)
 
+* destroy 
+
+![destroy.png](screenshots/destroy.png)
+
+
+
 
