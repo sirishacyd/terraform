@@ -32,17 +32,55 @@
 
 ### project2
 
+Steps: 
+
+1.Configure the AWS Provider
+
+2.Create a VPC
+
+3.Create an internet gateway
+
+4.Create a custom route table
+
+5.Create a subnet
+
+6.Associate the subnet with the route table
+
+7.Create a security group to allow ports 22, 80, and 443
+
+8.Create a network interface with an IP in the subnet created in step 4
+
+9.Assign an Elastic IP to the network interface created in step 7
+
+10.Create an Ubuntu server and install/enable Apache2
+
+
 ![apply](screenshots/3.png)
+
+VPC:
 
 ![vpc](screenshots/1.png)
 
+Subnet:
+
 ![subnet](screenshots/2.png)
+
+EC2:
 
 ![ec2](screenshots/5.png)
 
+SSH login:
+
+
 ![server](screenshots/6.png)
 
+server: 
+
+
 ![http](screenshots/7.png)
+
+Destroy:
+
 
 ![destroy](screenshots/8.png)
 
