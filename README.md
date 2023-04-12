@@ -72,6 +72,15 @@ Steps:
 ![destroy](screenshots/9.png)
 
 
+### Terraform state commands
+
+* terraform state list
+
+* terraform state show
+
+
+
+
 
 
 
