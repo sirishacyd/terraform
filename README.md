@@ -1,4 +1,4 @@
-
+### project1
 
 * Terraform init is the first command that should be run when setting up a new Terraform project or when working with an existing project for the first time on a new machine.
 
@@ -28,7 +28,27 @@
 
 * destroy 
 
-![destroy.png](screenshots/destroy.png)
+![destroy](screenshots/destroy.png)
+
+### project2
+
+![apply](screenshots/3.png)
+
+![vpc](screenshots/1.png)
+
+![subnet](screenshots/2.png)
+
+![ec2](screenshots/5.png)
+
+![server](screenshots/6.png)
+
+![http](screenshots/7.png)
+
+![destroy](screenshots/8.png)
+
+![destroy](screenshots/9.png)
+
+
 
 
 
