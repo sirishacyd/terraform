@@ -30,7 +30,7 @@
 
 ![destroy](screenshots/destroy.png)
 
-### Project2: web server running Apache2 within a custom VPC in your AWS account. The server will be accessible from the internet via its Elastic IP address, allowing you to serve web content on ports 80 and 443.
+### Project2: Web server running Apache2 within a custom VPC in the AWS account. The server will be accessible from the internet via its Elastic IP address, it allow to serve web content on ports 80 and 443.
 
 Steps: 
 
