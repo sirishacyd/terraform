@@ -1,4 +1,4 @@
-### project1
+### Project1
 
 * Terraform init is the first command that should be run when setting up a new Terraform project or when working with an existing project for the first time on a new machine.
 
