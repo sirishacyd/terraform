@@ -65,7 +65,7 @@ Steps:
 
 ![server](screenshots/6.png)
 
-![http](screenshots/7.png
+![http](screenshots/7.png]
 
 ![destroy](screenshots/8.png)
 
